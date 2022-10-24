@@ -1,7 +1,7 @@
 /**
-   * Create By Denara Bot.
-   * Contact Me on wa.me/6281215626270
-   * Follow https://github.com/DenaraBot
+   * Create By SATRIA - MD.
+   * Contact Me on wa.me/66827294199
+   * Follow https://github.com/FannBott
 */
 
 require('./config')
